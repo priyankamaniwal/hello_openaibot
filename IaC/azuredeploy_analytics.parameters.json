@@ -3,25 +3,25 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "accountDataLakeName": {
-        "value": "GEN-UNIQUE"
+        "value": "dltopenaibotacceleratordevct"
       },
       "location": {
         "value": "eastus"
       },
         "accountCognitiveSearchName": {
-        "value": "GEN-UNIQUE"
+        "value": "cogniopenaibotacceleratordevct"
       },
          "serverName": {
-         "value": "GEN-UNIQUE"
+         "value": "serveropenaibotacceleratordevct"
       },
         "administratorLogin": {
-        "value": "GEN-UNIQUE"
+        "value": "priyanka"
       },
         "administratorLoginPassword": {
-        "value": "GEN-PASSWORD"
+        "value": "password@123"
       },
         "blobContainerName": {
-        "value": "yourowndata"
+        "value": "containeropenai"
       }
     }
 }
