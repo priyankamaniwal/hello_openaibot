@@ -11,7 +11,7 @@ env:
   IMAGE_NAME: oabot
   IMAGE_TAG: 3978
   CONTAINER_APP_NAME: oabotdemov1
-  CONTAINER_APP_ENV:  env-c4gxnd5jx4mf6
+  CONTAINER_APP_ENV: env-c4gxnd5jx4mf6
 
 jobs:
   deploy-container-app:
