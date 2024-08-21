@@ -3,11 +3,11 @@ name: 1 Deploy Full PoC Enviroment
 on: workflow_dispatch
 
 env:
-  AZURE_RG: rg_priyankaopenai
+  AZURE_RG: rg_priyankaopenaipoc
   AZURE_SUBSCRIPTION: ${{ secrets.AZURE_SUBSCRIPTION }}
   AZURE_CREDENTIALS: ${{ secrets.AZURE_CREDENTIALS }}
   AZURE_REGION: eastus
-  AZURE_OPENAI_NAME: devopenaiacceleratorpoctestct
+  AZURE_OPENAI_NAME: devopenaiacceleratorpoctestctgithub
 
 jobs:
   deploy-bicep-template:
