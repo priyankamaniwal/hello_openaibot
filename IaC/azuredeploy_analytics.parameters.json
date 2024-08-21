@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "accountDataLakeName": {
-        "value": "storageisgreat11"
+        "value": "storageisgoat"
       },
       "location": {
         "value": "canadacentral"
       },
         "accountCognitiveSearchName": {
-        "value": "cogniopenaibotacceleratordevct"
+        "value": "cognisearchisgreaat"
       },
          "serverName": {
-         "value": "serveropenaibotacceleratordevct"
+         "value": "serverisgreat"
       },
         "administratorLogin": {
         "value": "priyanka"
