@@ -6,7 +6,7 @@ env:
   AZURE_RG: rg_priyankaopenaipocnew
   AZURE_SUBSCRIPTION: ${{ secrets.AZURE_SUBSCRIPTION }}
   AZURE_CREDENTIALS: ${{ secrets.AZURE_CREDENTIALS }}
-  AZURE_REGION: eastus
+  AZURE_REGION: centralindia
   AZURE_OPENAI_NAME: openaicreategithubactiondevops
 
 jobs:
